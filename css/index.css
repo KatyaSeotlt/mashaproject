@@ -1,0 +1,35 @@
+.app{
+	text-align: center;
+}
+.primer span{
+font-size: 25px;
+margin: 10px;
+}
+.primer input{
+width: 50px;
+margin: 10px;
+height: 40px;
+padding: 0px;
+font-size: 25px;
+}
+.primer{
+padding:15px 30px;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+button{
+height:40px
+}
+.picture{
+width: 50px;
+
+}
+.pic_container{
+background: url('../img/trava.png') repeat-x bottom;
+background-size: 200px;
+width: 320px;
+margin: 0 auto;
+text-align: left;
+position: relative;
+}
